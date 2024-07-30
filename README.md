@@ -21,6 +21,7 @@ Todo-List is a React JS based project that stores your todo-tasks with use of lo
 <li>The save button gets dissabled untill todo list <= 3</li>
 <li>onChange, rendering Lists using maps make it easier and avoids repetability of code</li>
 
+<br>
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
