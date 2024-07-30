@@ -2,7 +2,7 @@
 
 Todo-List is a React JS based project that stores your todo-tasks with use of local storage on your computer you can check uncheck your day to day tasks since we have used the loacal storage it always restores our data unless the browser cache is cleared
 
-##Skills Used
+## Skills Used
 <li>React JS</li>
 <li>Tailwind CSS</li>
 <li>HTML</li>
@@ -12,7 +12,7 @@ Todo-List is a React JS based project that stores your todo-tasks with use of lo
 <br>
 
 
-##Features
+## Features
 <li>This project utilises local storage on browser so after refresh or closing our tasks still exsist the same</li>
 <li>uuid package is used to create unique id for each list item</li>
 <li>The useEffect hook is used to load the data for every re-render</li>
