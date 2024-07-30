@@ -9,6 +9,9 @@ Todo-List is a React JS based project that stores your todo-tasks with use of lo
 <li>CSS</li>
 <li>JavaScript</li>
 
+<br>
+
+
 ##Features
 <li>This project utilises local storage on browser so after refresh or closing our tasks still exsist the same</li>
 <li>uuid package is used to create unique id for each list item</li>
