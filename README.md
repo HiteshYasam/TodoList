@@ -2,6 +2,8 @@
 
 Todo-List is a React JS based project that stores your todo-tasks with use of local storage on your computer you can check uncheck your day to day tasks since we have used the loacal storage it always restores our data unless the browser cache is cleared
 
+🔗 **Live Demo**: [https://hiteshtodo.netlify.app/](https://hiteshtodo.netlify.app/)
+
 ## Skills Used
 <li>React JS</li>
 <li>Tailwind CSS</li>
